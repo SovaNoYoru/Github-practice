@@ -17,3 +17,5 @@ toggleBtn.addEventListener('click', () => {
     localStorage.setItem('theme', 'light');
   }
 });
+
+console.log('Script loaded successfully');
